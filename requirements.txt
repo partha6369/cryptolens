@@ -1,0 +1,15 @@
+gradio>=4.14.0
+vaderSentiment
+textblob
+transformers
+torch
+google-generativeai
+python-dotenv
+bs4
+requests
+langchain
+feedparser
+lxml
+matplotlib
+seaborn
+tweepy
